@@ -1,2 +1,2 @@
-# Angry-bird-stage-2.0
-Angry Bird Game
+# p5.play-boilerplate
+Boiler plate for p5.play
